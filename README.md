@@ -1,1 +1,1 @@
-# Collaborating_with_GitHub
+# Collaborating with GitHub
